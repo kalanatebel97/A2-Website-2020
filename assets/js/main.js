@@ -232,3 +232,6 @@
   });
 
 })(jQuery);
+
+// Directory modal show by default
+$('#directory-modal').modal('show');
