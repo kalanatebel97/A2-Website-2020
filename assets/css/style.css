@@ -2000,8 +2000,6 @@ section {
 .link-ios {
     text-align: left;
     padding-left: 3px!important;
-    pointer-events: none;
-    cursor: not-allowed!important;
 }
 
 .link-andorid {
